@@ -1,1 +1,14 @@
-
+%include .///omdv_libreoffice.lst
+%include .///omdv_vlc.lst
+grantlee-editor
+lib64grantleethemeeditor5
+kaddressbook
+mbox-importer
+dnfdragora
+kbackup
+lftp
+# stampa scanner
+task-printing
+task-printing-scanning
+skanlite
+sane-backends-iscan
