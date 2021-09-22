@@ -70,6 +70,6 @@ xdg-user-dirs-gtk #iso
 xdg-utils #iso
 xfsprogs
 xrandr
-xterm
+# xterm
 zip
 unzip
