@@ -1,13 +1,13 @@
 %include .///omdv_task-plasma-minimal.lst
-%include .///omdv_task-plasma-telepathy.lst
+# %include .///omdv_task-plasma-telepathy.lst
 
 akonadi-calendar-tools
 akonadi-notes-agent
 akonadi-search
-akregator
+# akregator
 audiocd-kio
 bluedevil5
-digikam
+# digikam
 distro-release-desktop-Plasma
 dolphin-plugins
 drkonqi
@@ -17,18 +17,18 @@ grub2-editor
 gwenview
 kaccounts-integration
 kaccounts-providers
-kaddressbook
+# kaddressbook
 # kalarm -- not until it stops crashing on startup
-kamera
-kamoso
+# kamera
+# kamoso
 kate
-kbackup
-kcalc
+# kbackup
+# kcalc
 kdeconnect
 kdegraphics-thumbnailers
 kde-gtk-config
 kdenetwork-filesharing
-kdenlive
+# kdenlive
 kdepim-runtime
 kdf
 kdialog
@@ -37,22 +37,22 @@ kget
 khelpcenter
 kidentitymanagement
 kio-gdrive
-kipi-plugins
+# kipi-plugins
 kleopatra
-kmail
-kmail-account-wizard
-kontact
-konversation
-korganizer
-krdc
-krfb
+# kmail
+# kmail-account-wizard
+# kontact
+# konversation
+# korganizer
+# krdc
+# krfb
 ksystemlog
-ktorrent
+# ktorrent
 kwallet-pam
-kwave
+# kwave
 kwayland
 kwayland-integration
-kwin-wayland
+#kwin-wayland
 kwrite
 libproxy-kde
 libproxy-networkmanager
@@ -60,18 +60,18 @@ myspell-dictionary
 okular
 openmandriva-kde-icons
 partitionmanager
-plasma-workspace-wayland
+#plasma-workspace-wayland
 plymouth-kcm
 print-manager
 sddm
 sddm-kcm
 sddm-theme-breeze
 signon-kwallet-extension
-skanlite
+# skanlite
 sonnet-hunspell
 spectacle
 speech-dispatcher
-ssr
+# ssr
 systemd-kcm
 kuser
 zeroconf-ioslave
