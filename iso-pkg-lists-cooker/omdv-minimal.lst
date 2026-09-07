@@ -1,4 +1,4 @@
 # basic includes file lists
-#%include .///omdv_iso_minimal.lst
-%include .///omdv_iso.lst
+#%include .///pk-iso_minimal.lst
+%include .///pk-iso.lst
 
