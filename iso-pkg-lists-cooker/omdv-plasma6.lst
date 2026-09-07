@@ -24,7 +24,7 @@
 kpat
 
 # Desktop specifics
-distro-release-desktop-Plasma6
+#distro-release-desktop-Plasma6
 x11-font-cyrillic
 x11-tools
 x11-docs
