@@ -14,7 +14,7 @@
 #include .///omdv_man-pages.lst
 %include .///omdv_myspell.lst
 %include .///omdv_pulseaudio.lst
-#%include .///omdv_smplayer.lst
+#%include .///omdv_player.lst
 
 # Add wayland for testing
 #%include .///omdv-plasma6wayland.lst
@@ -93,7 +93,7 @@ kwallet-pam
 kwalletmanager
 kwrite
 myspell-dictionary
-neochat
+#neochat
 okular
 okular-epub
 oxygen
